@@ -1,9 +1,9 @@
 {
 	"posts" : [
 	{
-		"userId" : 25
+		"userId" : 25,
 		"id" : 1,
-		"title" : "hello"
+		"title" : "hello",
 		"body" : "nesto"
 	}
 ]
