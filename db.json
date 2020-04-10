@@ -1,16 +1,52 @@
 {
 	"posts" : [
 	{
-		"userId" : 25,
-		"id" : 1,
-		"title" : "hello",
-		"body" : "nesto"
+		"timestamp" : "",
+		"language" : "rs",
+		"resources" :
+		[
+			{"key":"login_button",
+			 "value":"Ulogujte se"}, 
+			
+			{"key":"email_address",
+			 "value":"Email adresa"},
+			
+			{"key":"password",
+			 "value":"šifra"}, 
+			 
+			{"key":"forgot_password",
+			 "value":"Zaboravili ste šifru?"},
+			
+			{"key":"create_account",
+			 "value":"Napravite novi nalog"},
+			
+			{"key":"welcome",
+			 "value":"Dobro došli"}
+		]
 	},
 	{
-		"userId" : 26,
-		"id" : 2,
-		"title" : "hello2",
-		"body" : "nesto2"
+		"timestamp" : 25,
+		"language" : 1,
+		"resources" :
+		[
+			{"key":"login_button",
+			 "value":"Log in"}, 
+			
+			{"key":"email_address",
+			 "value":"Email address"},
+			
+			{"key":"password",
+			 "value":"Password"}, 
+			 
+			{"key":"forgot_password",
+			 "value":"Forgot your password?"},
+			
+			{"key":"create_account",
+			 "value":"Create new account"},
+			
+			{"key":"welcome",
+			 "value":"Welcome"}
+		]
 	}
 ]
 }
