@@ -12,7 +12,7 @@
 			 "value":"Email adresa"},
 			
 			{"key":"password",
-			 "value":"šifra"}, 
+			 "value":"Šifra"}, 
 			 
 			{"key":"forgot_password",
 			 "value":"Zaboravili ste šifru?"},
