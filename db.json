@@ -21,7 +21,10 @@
 			 "value":"Napravite novi nalog"},
 			
 			{"key":"welcome",
-			 "value":"Dobro došli"}
+			 "value":"Dobro došli"}, 
+			 
+			{"key":"sync",
+			 "value":"Sinhronizuj bazu sa serverom"}
 		]
 	},
 	{
@@ -45,7 +48,9 @@
 			 "value":"Create new account"},
 			
 			{"key":"welcome",
-			 "value":"Welcome"}
+			 "value":"Welcome"},
+			{"key":"sync",
+			 "value":"Sync database with server"}
 		]
 	}
 ]
