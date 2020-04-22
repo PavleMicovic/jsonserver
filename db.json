@@ -24,7 +24,11 @@
 			 "value":"Dobro došli"}, 
 			 
 			{"key":"sync",
-			 "value":"Sinhronizuj bazu sa serverom"}
+			 "value":"Sinhronizuj bazu sa serverom"},
+			{
+			"key":"switch_language",
+			"value":"Promenite jezik"
+			}
 		]
 	},
 	{
@@ -50,7 +54,41 @@
 			{"key":"welcome",
 			 "value":"Welcome"},
 			{"key":"sync",
-			 "value":"Sync database with server"}
+			 "value":"Sync database with server"},
+			{
+			"key":"switch_language",
+			"value":"Switch language"
+			}
+		]
+	},
+	{
+		"timestamp" : 26,
+		"language" : "fr",
+		"resources" :
+		[
+			{"key":"login_button",
+			 "value":"S'IDENTIFIER"}, 
+			
+			{"key":"email_address",
+			 "value":"Adresse e-mail"},
+			
+			{"key":"password",
+			 "value":"Mot de passe"}, 
+			 
+			{"key":"forgot_password",
+			 "value":"Mot de passe oublié?"},
+			
+			{"key":"create_account",
+			 "value":"Créer un nouveau compte"},
+			
+			{"key":"welcome",
+			 "value":"Bienvenue"},
+			{"key":"sync",
+			 "value":"Synchroniser la base de données avec le serveur"},
+			{
+			"key":"switch_language",
+			"value":"Changer de langue"
+			}
 		]
 	}
 ]
