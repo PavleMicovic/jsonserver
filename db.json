@@ -5,28 +5,28 @@
 		"language" : "sr",
 		"resources" :
 		[
-			{"key":"login_button",
+			{"key":"btnLogin",
 			 "value":"Ulogujte se"}, 
 			
-			{"key":"email_address",
+			{"key":"editEmail",
 			 "value":"Email adresa"},
 			
-			{"key":"password",
+			{"key":"editPassword",
 			 "value":"Šifra"}, 
 			 
-			{"key":"forgot_password",
+			{"key":"textForgotPass",
 			 "value":"Zaboravili ste šifru?"},
 			
-			{"key":"create_account",
+			{"key":"textCreateAcc",
 			 "value":"Napravite novi nalog"},
 			
-			{"key":"welcome",
+			{"key":"textWelcome",
 			 "value":"Dobro došli"}, 
 			 
-			{"key":"sync",
+			{"key":"btnSync",
 			 "value":"Sinhronizuj bazu sa serverom"},
 			{
-			"key":"switch_language",
+			"key":"btnSwitchLanguage",
 			"value":"Promenite jezik"
 			}
 		]
@@ -36,27 +36,27 @@
 		"language" : "en",
 		"resources" :
 		[
-			{"key":"login_button",
+			{"key":"btnLogin",
 			 "value":"Log in"}, 
 			
-			{"key":"email_address",
+			{"key":"editEmail",
 			 "value":"Email address"},
 			
-			{"key":"password",
+			{"key":"editPassword",
 			 "value":"Password"}, 
 			 
-			{"key":"forgot_password",
+			{"key":"textForgotPass",
 			 "value":"Forgot your password?"},
 			
-			{"key":"create_account",
+			{"key":"textCreateAcc",
 			 "value":"Create new account"},
 			
-			{"key":"welcome",
+			{"key":"textWelcome",
 			 "value":"Welcome"},
-			{"key":"sync",
+			{"key":"btnSync",
 			 "value":"Sync database with server"},
 			{
-			"key":"switch_language",
+			"key":"btnSwitchLanguage",
 			"value":"Switch language"
 			}
 		]
@@ -66,27 +66,27 @@
 		"language" : "fr",
 		"resources" :
 		[
-			{"key":"login_button",
+			{"key":"btnLogin",
 			 "value":"S'IDENTIFIER"}, 
 			
-			{"key":"email_address",
+			{"key":"editEmail",
 			 "value":"Adresse e-mail"},
 			
-			{"key":"password",
+			{"key":"editPassword",
 			 "value":"Mot de passe"}, 
 			 
-			{"key":"forgot_password",
+			{"key":"textForgotPass",
 			 "value":"Mot de passe oublié?"},
 			
-			{"key":"create_account",
+			{"key":"textCreateAcc",
 			 "value":"Créer un nouveau compte"},
 			
-			{"key":"welcome",
+			{"key":"textWelcome",
 			 "value":"Bienvenue"},
-			{"key":"sync",
+			{"key":"btnSync",
 			 "value":"Synchroniser la base de données avec le serveur"},
 			{
-			"key":"switch_language",
+			"key":"btnSwitchLanguage",
 			"value":"Changer de langue"
 			}
 		]
