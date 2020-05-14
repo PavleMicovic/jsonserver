@@ -5,30 +5,29 @@
 		"language" : "sr",
 		"resources" :
 		[
-			{"key":"btnLogin",
-			 "value":"Ulogujte se"}, 
-			
-			{"key":"editEmail",
+			{"key":"loginWelcome",
+			 "value":"Dobro došli"},
+			 
+			{"key":"userEmail",
 			 "value":"Email adresa"},
-			
-			{"key":"editPassword",
-			 "value":"Šifra"}, 
 			 
-			{"key":"textForgotPass",
+			 {"key":"password",
+			 "value":"Šifra"},
+			 
+			 {"key":"loginScreenForgotPassword",
 			 "value":"Zaboravili ste šifru?"},
-			
-			{"key":"textCreateAcc",
-			 "value":"Napravite novi nalog"},
-			
-			{"key":"textWelcome",
-			 "value":"Dobro došli"}, 
 			 
-			{"key":"btnSync",
-			 "value":"Sinhronizuj bazu sa serverom"},
-			{
-			"key":"btnSwitchLanguage",
+			 {"key":"login",
+			 "value":"Ulogujte se"},
+			 
+			 {"key":"createNewAccount",
+			 "value":"Napravite novi nalog"},
+			 
+			 {"key":"btnSwitchLanguage",
 			"value":"Promenite jezik"
 			}
+			
+			
 		]
 	},
 	{
@@ -36,27 +35,25 @@
 		"language" : "en",
 		"resources" :
 		[
-			{"key":"btnLogin",
-			 "value":"Log in"}, 
-			
-			{"key":"editEmail",
-			 "value":"Email address"},
-			
-			{"key":"editPassword",
-			 "value":"Password"}, 
+			{"key":"loginWelcome",
+			 "value":"Welcome"},
 			 
-			{"key":"textForgotPass",
+			{"key":"userEmail",
+			 "value":"Email address"},
+			 
+			 {"key":"password",
+			 "value":"Password"},
+			 
+			 {"key":"loginScreenForgotPassword",
 			 "value":"Forgot your password?"},
-			
-			{"key":"textCreateAcc",
+			 
+			 {"key":"login",
+			 "value":"Log in"},
+			 
+			 {"key":"createNewAccount",
 			 "value":"Create new account"},
 			
-			{"key":"textWelcome",
-			 "value":"Welcome"},
-			{"key":"btnSync",
-			 "value":"Sync database with server"},
-			{
-			"key":"btnSwitchLanguage",
+			{"key":"btnSwitchLanguage",
 			"value":"Switch language"
 			}
 		]
@@ -66,25 +63,24 @@
 		"language" : "fr",
 		"resources" :
 		[
-			{"key":"btnLogin",
-			 "value":"S'IDENTIFIER"}, 
-			
-			{"key":"editEmail",
-			 "value":"Adresse e-mail"},
-			
-			{"key":"editPassword",
-			 "value":"Mot de passe"}, 
-			 
-			{"key":"textForgotPass",
-			 "value":"Mot de passe oublié?"},
-			
-			{"key":"textCreateAcc",
-			 "value":"Créer un nouveau compte"},
-			
-			{"key":"textWelcome",
+		
+			{"key":"loginWelcome",
 			 "value":"Bienvenue"},
-			{"key":"btnSync",
-			 "value":"Synchroniser la base de données avec le serveur"},
+			 
+			{"key":"userEmail",
+			 "value":"Adresse e-mail"},
+			 
+			 {"key":"password",
+			 "value":"Mot de passe"},
+			 
+			 {"key":"loginScreenForgotPassword",
+			 "value":"Mot de passe oublié?"},
+			 
+			 {"key":"login",
+			 "value":"S'IDENTIFIER"},
+			 
+			 {"key":"createNewAccount",
+			 "value":"Créer un nouveau compte"},
 			{
 			"key":"btnSwitchLanguage",
 			"value":"Changer de langue"
