@@ -23,7 +23,7 @@
 			 {"key":"createNewAccount",
 			 "value":"Napravite novi nalog"},
 			 
-			 {"key":"btnSwitchLanguage",
+			 {"key":"switchLanguage",
 			"value":"Promenite jezik"
 			}
 			
@@ -53,7 +53,7 @@
 			 {"key":"createNewAccount",
 			 "value":"Create new account"},
 			
-			{"key":"btnSwitchLanguage",
+			{"key":"switchLanguage",
 			"value":"Switch language"
 			}
 		]
@@ -82,7 +82,7 @@
 			 {"key":"createNewAccount",
 			 "value":"Créer un nouveau compte"},
 			{
-			"key":"btnSwitchLanguage",
+			"key":"switchLanguage",
 			"value":"Changer de langue"
 			}
 		]
