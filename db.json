@@ -5,25 +5,25 @@
 		"language" : "sr",
 		"resources" :
 		[
-			{"key":"loginWelcome",
+			{"key":"welcome",
 			 "value":"Dobro došli"},
 			 
-			{"key":"userEmail",
+			{"key":"email_address",
 			 "value":"Email adresa"},
 			 
 			 {"key":"password",
 			 "value":"Šifra"},
 			 
-			 {"key":"loginScreenForgotPassword",
+			 {"key":"forgot_your_password",
 			 "value":"Zaboravili ste šifru?"},
 			 
-			 {"key":"login",
+			 {"key":"login_button",
 			 "value":"Ulogujte se"},
 			 
-			 {"key":"createNewAccount",
+			 {"key":"create_new_account",
 			 "value":"Napravite novi nalog"},
 			 
-			 {"key":"switchLanguage",
+			 {"key":"options_switch_language",
 			"value":"Promenite jezik"
 			}
 			
@@ -35,25 +35,25 @@
 		"language" : "en",
 		"resources" :
 		[
-			{"key":"loginWelcome",
+			{"key":"welcome",
 			 "value":"Welcome"},
 			 
-			{"key":"userEmail",
+			{"key":"email_address",
 			 "value":"Email address"},
 			 
 			 {"key":"password",
 			 "value":"Password"},
 			 
-			 {"key":"loginScreenForgotPassword",
+			 {"key":"forgot_your_password",
 			 "value":"Forgot your password?"},
 			 
-			 {"key":"login",
+			 {"key":"login_button",
 			 "value":"Log in"},
 			 
-			 {"key":"createNewAccount",
+			 {"key":"create_new_account",
 			 "value":"Create new account"},
 			
-			{"key":"switchLanguage",
+			{"key":"options_switch_language",
 			"value":"Switch language"
 			}
 		]
@@ -64,25 +64,25 @@
 		"resources" :
 		[
 		
-			{"key":"loginWelcome",
+			{"key":"welcome",
 			 "value":"Bienvenue"},
 			 
-			{"key":"userEmail",
+			{"key":"email_address",
 			 "value":"Adresse e-mail"},
 			 
 			 {"key":"password",
 			 "value":"Mot de passe"},
 			 
-			 {"key":"loginScreenForgotPassword",
+			 {"key":"forgot_your_password",
 			 "value":"Mot de passe oublié?"},
 			 
-			 {"key":"login",
+			 {"key":"login_button",
 			 "value":"S'IDENTIFIER"},
 			 
-			 {"key":"createNewAccount",
+			 {"key":"create_new_account",
 			 "value":"Créer un nouveau compte"},
 			{
-			"key":"switchLanguage",
+			"key":"options_switch_language",
 			"value":"Changer de langue"
 			}
 		]
