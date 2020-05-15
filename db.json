@@ -1,0 +1,91 @@
+{
+	"languages" : [
+	{
+		"timestamp" : "24",
+		"language" : "sr",
+		"resources" :
+		[
+			{"key":"loginWelcome",
+			 "value":"Dobro došli"},
+			 
+			{"key":"userEmail",
+			 "value":"Email adresa"},
+			 
+			 {"key":"password",
+			 "value":"Šifra"},
+			 
+			 {"key":"loginScreenForgotPassword",
+			 "value":"Zaboravili ste šifru?"},
+			 
+			 {"key":"login",
+			 "value":"Ulogujte se"},
+			 
+			 {"key":"createNewAccount",
+			 "value":"Napravite novi nalog"},
+			 
+			 {"key":"switchLanguage",
+			"value":"Promenite jezik"
+			}
+			
+			
+		]
+	},
+	{
+		"timestamp" : 25,
+		"language" : "en",
+		"resources" :
+		[
+			{"key":"loginWelcome",
+			 "value":"Welcome"},
+			 
+			{"key":"userEmail",
+			 "value":"Email address"},
+			 
+			 {"key":"password",
+			 "value":"Password"},
+			 
+			 {"key":"loginScreenForgotPassword",
+			 "value":"Forgot your password?"},
+			 
+			 {"key":"login",
+			 "value":"Log in"},
+			 
+			 {"key":"createNewAccount",
+			 "value":"Create new account"},
+			
+			{"key":"switchLanguage",
+			"value":"Switch language"
+			}
+		]
+	},
+	{
+		"timestamp" : 26,
+		"language" : "fr",
+		"resources" :
+		[
+		
+			{"key":"loginWelcome",
+			 "value":"Bienvenue"},
+			 
+			{"key":"userEmail",
+			 "value":"Adresse e-mail"},
+			 
+			 {"key":"password",
+			 "value":"Mot de passe"},
+			 
+			 {"key":"loginScreenForgotPassword",
+			 "value":"Mot de passe oublié?"},
+			 
+			 {"key":"login",
+			 "value":"S'IDENTIFIER"},
+			 
+			 {"key":"createNewAccount",
+			 "value":"Créer un nouveau compte"},
+			{
+			"key":"switchLanguage",
+			"value":"Changer de langue"
+			}
+		]
+	}
+]
+}
