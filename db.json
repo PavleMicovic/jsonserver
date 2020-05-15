@@ -60,27 +60,27 @@
 	},
 	{
 		"timestamp" : 26,
-		"language" : "fr",
+		"language" : "de",
 		"resources" :
 		[
 		
 			{"key":"welcome",
-			 "value":"Bienvenue"},
+			 "value":"Wilkommen"},
 			 
 			{"key":"email_address",
-			 "value":"Adresse e-mail"},
+			 "value":"E-Mail-Adresse"},
 			 
 			 {"key":"password",
-			 "value":"Mot de passe"},
+			 "value":"Passwort"},
 			 
 			 {"key":"forgot_your_password",
-			 "value":"Mot de passe oublié?"},
+			 "value":"Passwort vergessen?"},
 			 
 			 {"key":"login_button",
-			 "value":"S'IDENTIFIER"},
+			 "value":"Anmelden"},
 			 
 			 {"key":"create_new_account",
-			 "value":"Créer un nouveau compte"},
+			 "value":"Neues Konto eröffnen"},
 			{
 			"key":"options_switch_language",
 			"value":"Changer de langue"
