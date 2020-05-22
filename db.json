@@ -25,7 +25,9 @@
 			 
 			 {"key":"options_switch_language",
 			"value":"Promenite jezik"
-			}
+			},
+			{"key":"change_cloud_url",
+			 "value":"Promenite cloud url"}
 			
 			
 		]
@@ -55,7 +57,9 @@
 			
 			{"key":"options_switch_language",
 			"value":"Switch language"
-			}
+			},
+			{"key":"change_cloud_url",
+			 "value":"Change cloud url"}
 		]
 	},
 	{
@@ -84,7 +88,9 @@
 			{
 			"key":"options_switch_language",
 			"value":"Changer de langue"
-			}
+			},
+			{"key":"change_cloud_url",
+			 "value":"Cloud url ändern"}
 		]
 	}
 ]
