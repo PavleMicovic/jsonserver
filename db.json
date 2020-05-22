@@ -30,7 +30,10 @@
 			 "value":"Promenite cloud url"},
 			 
 			{"key":"alarm_smart_safety_service_title",
-			 "value":"Bezbednost"}
+			 "value":"Bezbednost"},
+			 
+			{"key":"advanced_option",
+			 "value":"Napredno"}
 			
 			
 		]
@@ -65,7 +68,10 @@
 			 "value":"Change cloud url"},
 			 
 			{"key":"alarm_smart_safety_service_title",
-			 "value":"Safety"}
+			 "value":"Safety"},
+			 
+			{"key":"advanced_option",
+			 "value":"Advanced"}
 		]
 	},
 	{
@@ -99,7 +105,11 @@
 			 "value":"Cloud url ändern"},
 			 
 			{"key":"alarm_smart_safety_service_title",
-			 "value":"Gefahren"}
+			 "value":"Gefahren"},
+			 
+			 {"key":"advanced_option",
+			 "value":"Erweitert"}
+			 
 		]
 	}
 ]
