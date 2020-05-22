@@ -27,7 +27,10 @@
 			"value":"Promenite jezik"
 			},
 			{"key":"change_cloud_url",
-			 "value":"Promenite cloud url"}
+			 "value":"Promenite cloud url"},
+			 
+			{"key":"alarm_smart_safety_service_title",
+			 "value":"Bezbednost"}
 			
 			
 		]
@@ -59,7 +62,10 @@
 			"value":"Switch language"
 			},
 			{"key":"change_cloud_url",
-			 "value":"Change cloud url"}
+			 "value":"Change cloud url"},
+			 
+			{"key":"alarm_smart_safety_service_title",
+			 "value":"Safety"}
 		]
 	},
 	{
@@ -90,7 +96,10 @@
 			"value":"Changer de langue"
 			},
 			{"key":"change_cloud_url",
-			 "value":"Cloud url ändern"}
+			 "value":"Cloud url ändern"},
+			 
+			{"key":"alarm_smart_safety_service_title",
+			 "value":"Gefahren"}
 		]
 	}
 ]
