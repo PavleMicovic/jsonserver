@@ -27,7 +27,7 @@
 			"value":"Promenite jezik"
 			},
 			{"key":"change_cloud_url",
-			 "value":"Promenite cloud url"},
+			 "value":"Promenite cloud url124"},
 			 
 			{"key":"alarm_smart_safety_service_title",
 			 "value":"Bezbednost1234"},
@@ -36,7 +36,10 @@
 			 "value":"Napredno1234"},
 			 
 			{"key":"armedPartially",
-			"value":"Delimično zaključano1234"}
+			"value":"Delimično zaključano1234"},
+			
+			{"key":"heating",
+			"value":"grejanje123"}
 			
 			
 		]
@@ -68,7 +71,7 @@
 			"value":"Switch language"
 			},
 			{"key":"change_cloud_url",
-			 "value":"Change cloud url"},
+			 "value":"Change cloud url1234"},
 			 
 			{"key":"alarm_smart_safety_service_title",
 			 "value":"Safety1234"},
@@ -77,7 +80,10 @@
 			 "value":"Advanced1234"},
 			 
 			 {"key":"armedPartially",
-			"value":"Armed Partially 1234"}
+			"value":"Armed Partially 1234"},
+			
+			{"key":"heating",
+			"value":"Heating124"}
 		]
 	},
 	{
@@ -108,15 +114,19 @@
 			"value":"Changer de langue"
 			},
 			{"key":"change_cloud_url",
-			 "value":"Cloud url ändern"},
+			 "value":"Cloud url ändern124"},
 			 
 			{"key":"alarm_smart_safety_service_title",
 			 "value":"Gefahren1234"},
 			 
 			 {"key":"advanced_option",
 			 "value":"Erweitert1234"},
+			 
 			 {"key":"armedPartially",
-			"value":"Ja, ich spreche Deutch seht gut 1234"}
+			"value":"Ja, ich spreche Deutch sehr gut 1234"},
+			
+			{"key":"heating",
+			"value":"Heating njemacki 124"}
 			 
 		]
 	}
