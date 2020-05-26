@@ -30,10 +30,13 @@
 			 "value":"Promenite cloud url"},
 			 
 			{"key":"alarm_smart_safety_service_title",
-			 "value":"Bezbednost"},
+			 "value":"Bezbednost1234"},
 			 
 			{"key":"advanced_option",
-			 "value":"Napredno"}
+			 "value":"Napredno1234"},
+			 
+			{"key":"armedPartially",
+			"value":"Delimično zaključano1234"}
 			
 			
 		]
@@ -68,10 +71,13 @@
 			 "value":"Change cloud url"},
 			 
 			{"key":"alarm_smart_safety_service_title",
-			 "value":"Safety"},
+			 "value":"Safety1234"},
 			 
 			{"key":"advanced_option",
-			 "value":"Advanced"}
+			 "value":"Advanced1234"},
+			 
+			 {"key":"armedPartially",
+			"value":"Armed Partially 1234"}
 		]
 	},
 	{
@@ -108,7 +114,9 @@
 			 "value":"Gefahren"},
 			 
 			 {"key":"advanced_option",
-			 "value":"Erweitert"}
+			 "value":"Erweitert"},
+			 {"key":"armedPartially",
+			"value":"Ja, ich spreche Deutch seht gut 1234"}
 			 
 		]
 	}
