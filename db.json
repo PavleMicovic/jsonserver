@@ -39,7 +39,10 @@
 			"value":"Delimično zaključano1234"},
 			
 			{"key":"heating",
-			"value":"grejanje123"}
+			"value":"grejanje123"},
+			
+			{"key":"nav_bar_title_smarts",
+			"value":"Pametnjakovici123"}
 			
 			
 		]
@@ -83,7 +86,10 @@
 			"value":"Armed Partially 1234"},
 			
 			{"key":"heating",
-			"value":"Heating124"}
+			"value":"Heating124"},
+			
+			{"key":"nav_bar_title_smarts",
+			"value":"Smarts123"}
 		]
 	},
 	{
@@ -126,7 +132,10 @@
 			"value":"Ja, ich spreche Deutch sehr gut 1234"},
 			
 			{"key":"heating",
-			"value":"Heating njemacki 124"}
+			"value":"Heating njemacki 124"},
+			
+			{"key":"nav_bar_title_smarts",
+			"value":"Njemacki123"}
 			 
 		]
 	}
