@@ -1,7 +1,7 @@
 {
 	"languages" : [
 	{
-		"timestamp" : "24",
+		"timestamp" : "26",
 		"language" : "sr",
 		"resources" :
 		[
@@ -9,7 +9,7 @@
 			 "value":"Dobro došli"},
 			 
 			{"key":"email_address",
-			 "value":"Email adresa"},
+			 "value":"email adresa"},
 			 
 			 {"key":"password",
 			 "value":"Šifra"},
