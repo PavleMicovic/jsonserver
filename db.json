@@ -16,7 +16,7 @@
 			 {"key":"loginScreenBack",
 			 "value":"Nazad"},
 			 
-			 {"key":"frstScreenRightButton",
+			 {"key":"firstScreenRightButton",
 			 "value":"Ulogujte se"},
 			 
 			 {"key":"firstScreenLeftButton",
@@ -39,7 +39,7 @@
 			 {"key":"loginScreenBack",
 			 "value":"Back"},
 			 
-			 {"key":"frstScreenRightButton",
+			 {"key":"firstScreenRightButton",
 			 "value":"Log in"},
 			 
 			 {"key":"firstScreenLeftButton",
