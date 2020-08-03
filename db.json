@@ -16,11 +16,11 @@
 			 {"key":"loginScreenBack",
 			 "value":"Nazad"},
 			 
-			 {"key":"firstScreenRightButton",
-			 "value":"Ulogujte se"},
-			 
 			 {"key":"firstScreenLeftButton",
-			 "value":"Boje"}	
+			 "value":"Boje"},
+			
+			{"key":"firstScreenRightButton",
+			 "value":"Ulogujte se"}
 		]
 	},
 	{
@@ -39,11 +39,11 @@
 			 {"key":"loginScreenBack",
 			 "value":"Back"},
 			 
+			 {"key":"firstScreenLeftButton",
+			 "value":"Colors"},
+			
 			 {"key":"firstScreenRightButton",
 			 "value":"Log in"},
-			 
-			 {"key":"firstScreenLeftButton",
-			 "value":"Colors"}
 		]
 	}
 ]
