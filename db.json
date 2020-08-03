@@ -1,142 +1,49 @@
 {
 	"languages" : [
 	{
-		"timestamp" : "26",
 		"language" : "sr",
 		"resources" :
 		[
-			{"key":"welcome",
+			{"loginScreenWelcome":"Welcome",
 			 "value":"Dobro došli"},
 			 
-			{"key":"email_address",
-			 "value":"email adresa"},
+			{"key":"loginScreenEmail",
+			 "value":"Email addresa"},
 			 
-			 {"key":"password",
+			 {"key":"loginScreenPassword",
 			 "value":"Šifra"},
 			 
-			 {"key":"forgot_your_password",
-			 "value":"Zaboravili ste šifru?"},
+			 {"key":"loginScreenBack",
+			 "value":"Nazad"},
 			 
-			 {"key":"login_button",
+			 {"key":"frstScreenRightButton",
 			 "value":"Ulogujte se"},
 			 
-			 {"key":"create_new_account",
-			 "value":"Napravite novi nalog"},
-			 
-			 {"key":"options_switch_language",
-			"value":"Promenite jezik"
-			},
-			{"key":"change_cloud_url",
-			 "value":"Promenite cloud url124"},
-			 
-			{"key":"alarm_smart_safety_service_title",
-			 "value":"Bezbednost1234"},
-			 
-			{"key":"advanced_option",
-			 "value":"Napredno1234"},
-			 
-			{"key":"armedPartially",
-			"value":"Delimično zaključano1234"},
-			
-			{"key":"heating",
-			"value":"grejanje123"},
-			
-			{"key":"nav_bar_title_smarts",
-			"value":"Pametnjakovici123"}
-			
-			
+			 {"key":"firstScreenLeftButton",
+			 "value":"Boje"}	
 		]
 	},
 	{
-		"timestamp" : 25,
 		"language" : "en",
 		"resources" :
 		[
-			{"key":"welcome",
+			{"loginScreenWelcome":"Welcome",
 			 "value":"Welcome"},
 			 
-			{"key":"email_address",
+			{"key":"loginScreenEmail",
 			 "value":"Email address"},
 			 
-			 {"key":"password",
+			 {"key":"loginScreenPassword",
 			 "value":"Password"},
 			 
-			 {"key":"forgot_your_password",
-			 "value":"Forgot your password?"},
+			 {"key":"loginScreenBack",
+			 "value":"Back"},
 			 
-			 {"key":"login_button",
+			 {"key":"frstScreenRightButton",
 			 "value":"Log in"},
 			 
-			 {"key":"create_new_account",
-			 "value":"Create new account"},
-			
-			{"key":"options_switch_language",
-			"value":"Switch language"
-			},
-			{"key":"change_cloud_url",
-			 "value":"Change cloud url1234"},
-			 
-			{"key":"alarm_smart_safety_service_title",
-			 "value":"Safety1234"},
-			 
-			{"key":"advanced_option",
-			 "value":"Advanced1234"},
-			 
-			 {"key":"armedPartially",
-			"value":"Armed Partially 1234"},
-			
-			{"key":"heating",
-			"value":"Heating124"},
-			
-			{"key":"nav_bar_title_smarts",
-			"value":"Smarts123"}
-		]
-	},
-	{
-		"timestamp" : 26,
-		"language" : "de",
-		"resources" :
-		[
-		
-			{"key":"welcome",
-			 "value":"Wilkommen"},
-			 
-			{"key":"email_address",
-			 "value":"E-Mail-Adresse"},
-			 
-			 {"key":"password",
-			 "value":"Passwort"},
-			 
-			 {"key":"forgot_your_password",
-			 "value":"Passwort vergessen?"},
-			 
-			 {"key":"login_button",
-			 "value":"Anmelden"},
-			 
-			 {"key":"create_new_account",
-			 "value":"Neues Konto eröffnen"},
-			{
-			"key":"options_switch_language",
-			"value":"Changer de langue"
-			},
-			{"key":"change_cloud_url",
-			 "value":"Cloud url ändern124"},
-			 
-			{"key":"alarm_smart_safety_service_title",
-			 "value":"Gefahren1234"},
-			 
-			 {"key":"advanced_option",
-			 "value":"Erweitert1234"},
-			 
-			 {"key":"armedPartially",
-			"value":"Ja, ich spreche Deutch sehr gut 1234"},
-			
-			{"key":"heating",
-			"value":"Heating njemacki 124"},
-			
-			{"key":"nav_bar_title_smarts",
-			"value":"Njemacki123"}
-			 
+			 {"key":"firstScreenLeftButton",
+			 "value":"Colors"}
 		]
 	}
 ]
