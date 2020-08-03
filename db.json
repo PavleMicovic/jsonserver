@@ -4,7 +4,7 @@
 		"language" : "sr",
 		"resources" :
 		[
-			{"loginScreenWelcome":"Welcome",
+			{"key":"loginScreenWelcome",
 			 "value":"Dobro došli"},
 			 
 			{"key":"loginScreenEmail",
@@ -27,7 +27,7 @@
 		"language" : "en",
 		"resources" :
 		[
-			{"loginScreenWelcome":"Welcome",
+			{"key":"loginScreenWelcome",
 			 "value":"Welcome"},
 			 
 			{"key":"loginScreenEmail",
