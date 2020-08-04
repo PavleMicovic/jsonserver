@@ -20,7 +20,19 @@
 			 "value":"Boje"},
 			
 			{"key":"firstScreenRightButton",
-			 "value":"Ulogujte se"}
+			 "value":"Ulogujte se"},
+			
+			{"key":"BlueColor",
+			 "value":"Plava"},
+			
+			{"key":"YellowColor",
+			 "value":"Zuta"},
+			
+			{"key":"GreenColor",
+			 "value":"Zelena"},
+			
+			{"key":"OrangeColor",
+			 "value":"Narandzasta"}
 		]
 	},
 	{
@@ -43,7 +55,19 @@
 			 "value":"Colors"},
 			
 			 {"key":"firstScreenRightButton",
-			 "value":"Log in"}
+			 "value":"Log in"},
+			
+			{"key":"BlueColor",
+			 "value":"Blue"},
+			
+			{"key":"YellowColor",
+			 "value":"Yellow"},
+			
+			{"key":"GreenColor",
+			 "value":"Green"},
+			
+			{"key":"OrangeColor",
+			 "value":"Orange"}
 		]
 	}
 ]
