@@ -2,11 +2,11 @@
 	"languages" : [
 	{
 		"language" : "sr",
-		"timestamp" : "2059",
+		"timestamp" : "2060",
 		"resources" :
 		[
 			{"key":"loginScreenWelcome",
-			 "value":"Dobro došli"},
+			 "value":"Dobro došli2"},
 			 
 			{"key":"loginScreenEmail",
 			 "value":"Email addresa"},
