@@ -2,6 +2,7 @@
 	"languages" : [
 	{
 		"language" : "sr",
+		"timestamp" : "2058",
 		"resources" :
 		[
 			{"key":"loginScreenWelcome",
@@ -37,6 +38,7 @@
 	},
 	{
 		"language" : "en",
+		"timestamp" : "2059",
 		"resources" :
 		[
 			{"key":"loginScreenWelcome",
