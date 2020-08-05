@@ -2,11 +2,11 @@
 	"languages" : [
 	{
 		"language" : "sr",
-		"timestamp" : "2061",
+		"timestamp" : "3261",
 		"resources" :
 		[
 			{"key":"loginScreenWelcome",
-			 "value":"Dobro došli2"},
+			 "value":"Dobro došli123"},
 			 
 			{"key":"loginScreenEmail",
 			 "value":"Email addresa"},
@@ -18,10 +18,10 @@
 			 "value":"Nazad"},
 			 
 			 {"key":"firstScreenLeftButton",
-			 "value":"Boje2"},
+			 "value":"Boje123"},
 			
 			{"key":"firstScreenRightButton",
-			 "value":"Ulogujte se2"},
+			 "value":"Ulogujte se123"},
 			
 			{"key":"BlueColor",
 			 "value":"Plava"},
