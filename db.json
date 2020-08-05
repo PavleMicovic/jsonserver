@@ -38,7 +38,7 @@
 	},
 	{
 		"language" : "en",
-		"timestamp" : "2059",
+		"timestamp" : "2159",
 		"resources" :
 		[
 			{"key":"loginScreenWelcome",
@@ -57,7 +57,7 @@
 			 "value":"Colors"},
 			
 			 {"key":"firstScreenRightButton",
-			 "value":"Log in"},
+			 "value":"Log in1"},
 			
 			{"key":"BlueColor",
 			 "value":"Blue"},
