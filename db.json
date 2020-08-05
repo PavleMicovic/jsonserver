@@ -2,7 +2,7 @@
 	"languages" : [
 	{
 		"language" : "sr",
-		"timestamp" : "2060",
+		"timestamp" : "2061",
 		"resources" :
 		[
 			{"key":"loginScreenWelcome",
@@ -21,7 +21,7 @@
 			 "value":"Boje2"},
 			
 			{"key":"firstScreenRightButton",
-			 "value":"Ulogujte se"},
+			 "value":"Ulogujte se2"},
 			
 			{"key":"BlueColor",
 			 "value":"Plava"},
