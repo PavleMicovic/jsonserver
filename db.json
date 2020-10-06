@@ -9,31 +9,8 @@
 			 "value":"Dobro došli"},
 			 
 			{"key":"loginScreenEmail",
-			 "value":"Email addresa"},
+			 "value":"Email addresa"}
 			 
-			 {"key":"loginScreenPassword",
-			 "value":"Šifra"},
-			 
-			 {"key":"loginScreenBack",
-			 "value":"Nazad"},
-			 
-			 {"key":"firstScreenLeftButton",
-			 "value":"Boje"},
-			
-			{"key":"firstScreenRightButton",
-			 "value":"Ulogujte se"},
-			
-			{"key":"BlueColor",
-			 "value":"Plava"},
-			
-			{"key":"YellowColor",
-			 "value":"Zuta"},
-			
-			{"key":"GreenColor",
-			 "value":"Zelena"},
-			
-			{"key":"OrangeColor",
-			 "value":"Narandzasta"}
 		]
 	},
 	{
@@ -45,31 +22,7 @@
 			 "value":"Welcome"},
 			 
 			{"key":"loginScreenEmail",
-			 "value":"Email address"},
-			 
-			 {"key":"loginScreenPassword",
-			 "value":"Password"},
-			 
-			 {"key":"loginScreenBack",
-			 "value":"Back"},
-			 
-			 {"key":"firstScreenLeftButton",
-			 "value":"Colors"},
-			
-			 {"key":"firstScreenRightButton",
-			 "value":"Log in1"},
-			
-			{"key":"BlueColor",
-			 "value":"Blue"},
-			
-			{"key":"YellowColor",
-			 "value":"Yellow"},
-			
-			{"key":"GreenColor",
-			 "value":"Green"},
-			
-			{"key":"OrangeColor",
-			 "value":"Orange"}
+			 "value":"Email address"}
 		]
 	}
 ]
